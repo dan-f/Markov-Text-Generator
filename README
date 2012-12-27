@@ -3,9 +3,8 @@ I affirm that I have adhered to the Honor Code in this assignment.
 
 Written for CS151 (Data Structures) at Oberlin College.
 
-
-An implementation of the markov model, used as a statistical model for text
-generation, based on character frequency.
+An implementation of a text generation algorithm, utilizing a Markov model based
+on character frequency.
 
 Usage: `Java FrequencyCounter <k> <M> <filename>`
     where:
